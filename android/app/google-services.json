@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195834199355",
+    "project_id": "finaldemnotify",
+    "storage_bucket": "finaldemnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195834199355:android:7b6a5f4086dab36dbccb1e",
+        "android_client_info": {
+          "package_name": "com.example.mnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2YUBcsbQqD-7gdjbFk99l7zsLVQasPN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
